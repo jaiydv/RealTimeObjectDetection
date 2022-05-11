@@ -1,0 +1,26 @@
+<annotation>
+	<folder>no</folder>
+	<filename>no.1846674d-cfb9-11ec-a315-089798c7815a.jpg</filename>
+	<path>D:\project\real time hand recognition\RealTimeObjectDetection\Tensorflow\workspace\images\collected_images\no\no.1846674d-cfb9-11ec-a315-089798c7815a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>84</ymin>
+			<xmax>252</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>
